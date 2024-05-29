@@ -1,1 +1,3 @@
-# amanda
+# amanda.dev
+
+Só praticando
